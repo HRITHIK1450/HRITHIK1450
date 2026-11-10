@@ -42,7 +42,7 @@ Some areas I'm exploring:
 
   ### MY PROJECTS
 
-**AirControl AI**
+**Gesture control mouse**
 
 Control your computer using hand gestures and a webcam!
 AirControl AI is a Python-based computer vision project that allows users to control their mouse without touching it, using real-time hand tracking and gesture recognition.
