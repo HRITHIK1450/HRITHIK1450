@@ -40,6 +40,23 @@ Some areas I'm exploring:
 - 🤖 **AI/ML Projects:** Experimenting with different concepts and practical implementations.
 - ⚙️ **Problem Solving:** Exploring ways to use technology to solve everyday challenges.
 
+  ### MY PROJECTS
+
+**AirControl AI**
+
+Control your computer using hand gestures and a webcam!
+AirControl AI is a Python-based computer vision project that allows users to control their mouse without touching it, using real-time hand tracking and gesture recognition.
+
+Key Features:
+
+🖱️ Hand gesture-based mouse movement and clicking.
+👆 Left click, double click, right click and drag.
+↕️ Scroll and pinch-to-zoom controls.
+🔄 Browser navigation using swipe gestures.
+🪟 Window switching using hand gestures.
+🤖 Custom gesture recognition using a trained Random Forest model.
+
+Tech Stack: Python | OpenCV | MediaPipe | PyAutoGUI | Scikit-learn
 
 ### 🤝 Let's Connect
 
